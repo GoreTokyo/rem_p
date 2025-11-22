@@ -1,6 +1,3 @@
-# ============================================
-# Printer list and delete by number (English)
-# ============================================
 
 # Get printers and ports
 $printers = Get-Printer
